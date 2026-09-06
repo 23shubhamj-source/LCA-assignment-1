@@ -1,1 +1,0 @@
-# LCA-assignment-1
